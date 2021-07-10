@@ -1,4 +1,4 @@
-### # Welcome!
+### :full_moon_with_face: Welcome, companion!
 
 
 ## I'm Gustavo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
