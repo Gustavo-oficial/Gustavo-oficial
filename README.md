@@ -1,16 +1,13 @@
-### Hi there 👋
+### # Welcome!
 
-<!--
-**Gustavo-oficial/Gustavo-oficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm Gustavo! �<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: I'm Fullstack Developer!
+
+:house_with_garden: I’m from Brazil.
+
+
+## About me
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/gustavo-felix-3254371ba/)]( https://www.linkedin.com/in/gustavo-felix-3254371ba/)
